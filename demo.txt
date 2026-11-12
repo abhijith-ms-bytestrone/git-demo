@@ -1,3 +1,3 @@
 Application Name: MyApp
 Version: 1.0
-Status: Test
+Status: Test - Production
